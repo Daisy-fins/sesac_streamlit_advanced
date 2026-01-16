@@ -1,4 +1,4 @@
-# cloaud ver.
+# claude ver.
 """
 📈 주가 대시보드 (Stock Dashboard)
 - 깔끔하고 직관적인 UI/UX
